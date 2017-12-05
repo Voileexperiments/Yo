@@ -1,0 +1,25 @@
+{
+  "name": "Yo",
+  "version": "0.0.1",
+  "description": "The dark side of the moon, in the name of Watatsuki no Yorihime",
+  "main": "Yo.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.2.1",
+    "dotenv": "^4.0.0",
+    "js-yaml": "^3.10.0",
+    "node-opus": "^0.2.7",
+    "node-wolfram": "0.0.1",
+    "request": "^2.83.0",
+    "require-reload": "^0.2.2",
+    "scrape-twitter": "^0.9.0",
+    "stream-to-promise": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Girls are preparing tests, please wait warmly...\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Voile/Permayuyuko",
+  "license": "MIT"
+}
