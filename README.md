@@ -1,2 +1,1 @@
-# Yo
-https://i.imgur.com/rJw91C9.jpg
+![](https://i.imgur.com/rJw91C9.jpg)
