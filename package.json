@@ -8,6 +8,7 @@
     "discord.js": "^11.2.1",
     "dotenv": "^4.0.0",
     "js-yaml": "^3.10.0",
+    "moment": "^2.21.0",
     "node-opus": "^0.2.7",
     "node-wolfram": "0.0.1",
     "request": "^2.83.0",
@@ -19,7 +20,7 @@
   "scripts": {
     "test": "echo \"Girls are preparing tests, please wait warmly...\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["utility"],
   "author": "Voile/Permayuyuko",
   "license": "MIT"
 }
