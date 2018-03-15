@@ -119,7 +119,7 @@ function searchSequence(msg, ...args) {
                     }
                 }
             };
-            msg.channel.send('Results', data).catch(error => msg.channel.send('An error has okuu\'ed! The error was:\n \n' + `**${error.name}**\n${error.message}`));
+            msg.channel.send('Results', data).catch(error => msg.channel.send(`${error.code} An error has okuu\'ed!\n \n**${error.name}**\n${error.message}`));
         }
     });
 
