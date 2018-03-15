@@ -5,6 +5,7 @@
   "main": "Yo.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "discord-rich-presence": "0.0.6",
     "discord.js": "^11.2.1",
     "dotenv": "^4.0.0",
     "js-yaml": "^3.10.0",
@@ -20,7 +21,9 @@
   "scripts": {
     "test": "echo \"Girls are preparing tests, please wait warmly...\" && exit 1"
   },
-  "keywords": ["utility"],
+  "keywords": [
+    "utility"
+  ],
   "author": "Voile/Permayuyuko",
   "license": "MIT"
 }
